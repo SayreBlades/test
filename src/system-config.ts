@@ -41,6 +41,7 @@ const barrels: string[] = [
   'app/home',
   'app/+testroute',
   'app/+login',
+  'app/+home',
   /** @cli-barrel */
 ];
 
